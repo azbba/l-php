@@ -9,15 +9,15 @@
 When PHP parses a file, it look for opening and closing tag, which tell PHP to start and stop interpreting the code between them.  
 
 ```php
-    <?php
-        // PHP code to execute
-    ?>
+<?php
+    // PHP code to execute
+?>
 ```
 
 PHP includes a short echo tag:  
 
 ```php
-    <?= "text to print" ?>
+<?= "text to print" ?>
 ```
 
 ## PHP Comments:
